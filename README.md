@@ -2,6 +2,14 @@
 👋 Hi, I’m @K-Sricharan.<br>🔭 I am currently working as Data Analyst at Deloitte.<br>🌱 I’m currently learning Data science.<br>💞️ I’m looking to collaborate on Data Science related projects.<br>💬 Ask me about Machine Learning, Deep Learning, Data Analysis<br>👯 I am currently building my own startup planetofdatascience.com, planetofdatascience.com is an EdTech Platform which teaches about Data Science <br>📄 Know about my experiences https://www.linkedin.com/in/sri-charan-karingula/<br>📫 mail me at sricharan.karingula@gmail.com
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sricharan karingula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sricharan karingula" height="30" width="40" /></a>
+<a href="https://instagram.com/charan_techstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charan_techstudio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/charan_techstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charan_techstudio" height="30" width="40" /></a>
+</p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/charan_techstudio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-charan-karingula/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@charan_techstudio) 
 
