@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/K-Sricharan/K-Sricharan/blob/main/Github.gif" height="340" width="440"/>
+<img align="right" src="https://github.com/K-Sricharan/K-Sricharan/blob/main/Github.gif" height="440" width="540"/>
 #  👋 Hi, I’m @K-Sricharan.
 <br>🔭 I am currently working as Developer at Deloitte.<br>🌱 I’m currently learning Data science.<br>💞️ looking forward to collaborate on Data Science related projects.<br>💬 Ask me about Machine Learning, Deep Learning, Data Analysis<br>👯 I am currently building my own startup planetofdatascience.com, planetofdatascience.com is an EdTech Platform which teaches about Data Science <br>📄 Know about my experiences https://www.linkedin.com/in/sri-charan-karingula/<br>📫 mail me at sricharan.karingula@gmail.com
 
